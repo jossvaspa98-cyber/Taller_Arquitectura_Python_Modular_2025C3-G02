@@ -1,0 +1,5 @@
+pan:2275 
+huevos:3400 
+queso:5000 
+cerezas:2000 
+arroz:2500 

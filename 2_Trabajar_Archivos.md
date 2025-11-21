@@ -33,8 +33,7 @@ while linea:
 ```
 
   **Explicación:**
-
-- linea almacena la línea leída del archivo.
+|- linea almacena la línea leída del archivo.
 - print(linea) muestra la línea en la consola.
 - El bucle while lee líneas hasta que no haya más en el archivo.
 
